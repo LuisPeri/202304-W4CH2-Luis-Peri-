@@ -3,7 +3,9 @@ import { useState } from "react";
 function App() {
   return (
     <>
-      <Home></Home>
+      <>
+        <Home></Home>
+      </>
     </>
   );
 }

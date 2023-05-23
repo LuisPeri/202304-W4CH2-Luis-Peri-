@@ -3,7 +3,7 @@ export function Header() {
     <>
       <header>
         <img src="../public/questionary.png"></img>
-        <p>Go to questionary</p>
+        <p>Go to the questionaries...</p>
         <nav>
           <button>:D</button>
         </nav>
