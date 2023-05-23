@@ -1,8 +1,13 @@
+import { Home } from "./component/home/home";
 import { useState } from "react";
-import "./App.css";
-
 function App() {
-  return <></>;
+  return (
+    <>
+      <>
+        <Home></Home>
+      </>
+    </>
+  );
 }
 
 export default App;
