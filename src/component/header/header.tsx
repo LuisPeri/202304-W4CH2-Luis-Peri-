@@ -4,7 +4,9 @@ export function Header() {
       <header>
         <img src="../public/questionary.png"></img>
         <p>Go to questionary</p>
-        <button>:D</button>
+        <nav>
+          <button>:D</button>
+        </nav>
       </header>
     </>
   );
